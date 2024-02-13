@@ -1,3 +1,3 @@
 # belajar-kolaborasi
 
-Belajar GITHub di Dicoding.
+Belajar GITHub di Dicoding 25%
